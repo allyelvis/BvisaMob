@@ -1,0 +1,4 @@
+Dummy data for Visa and Mobile Money transactions
+Transaction ID: 
+Amount: 8202
+Date: Tue 13 Aug 2024 10:59:29 PM UTC
